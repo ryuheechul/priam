@@ -1,5 +1,6 @@
 print(__file__)
 
+random things
 
 def identity():
     return "Alpha Centauri Bb"
